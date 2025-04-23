@@ -1,6 +1,6 @@
 import React from "react";
 import './Hero.css';
-import host from "../assets/hostimg.avif"
+import host from "../assets/hostimg.avif";
 import clock from "./clock2.png";
 import acc from "../assets/acc.png";
 

@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import './HostMentor.css';
-import host from './host.avif';
+import host from '../assets/hostimg.avif';
 import tik from '../assets/tik.png';
 import Ecommerce from '../assets/ecommerce3-1.jpg';
 import trading from '../assets/trading.jpeg';
