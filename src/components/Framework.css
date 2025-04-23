@@ -1,0 +1,80 @@
+.framework{
+    display: flex;
+    flex-direction: column;
+    margin-top: -30px;
+    margin-left: 120px;
+    margin-right: 120px;
+    
+}
+
+.framework-class{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#experience{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 20px;
+    margin-top: -50px;
+}
+#headingframe-id{
+    font-size: 60px;
+    font-weight: bold;
+    
+}
+#business{
+    color: #25a8ef;
+}
+.focus-areas{
+    display: flex;
+    flex-direction: row;
+    margin-left: 50px;
+}
+.text-area{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+#focusarea-head{
+    font-size: 30px;
+    font-weight: bold;
+}
+#focus-text{
+    font-size: 20px;
+}
+#focus-text-2{
+    font-size: 20px;
+}
+.image-area{
+    height: 33.33%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.focus-div{
+    height: 120px;
+    width: 80%;
+    background-color: #99d1ef;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 200px;
+    border-radius: 20px;
+    border: 2px solid black;
+    box-shadow: 5px 10px black;
+
+}
+#h1-id{
+    font-size: 50px;
+    margin: 10px;
+    font-family: monospace;
+    font-weight: bold;
+}

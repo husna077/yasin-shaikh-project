@@ -1,0 +1,33 @@
+.faq{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+.faq-text{
+    
+    font-size: 30px;
+    border: 2px solid black;
+}
+.faq-head{
+    display: flex;
+}
+.faqs-divs{
+    width: 700px;
+    margin: auto;
+    padding: 30px;
+    justify-content: left;
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
+    
+}
+.faqs-divs:hover{
+    color: rgb(128, 128, 128);
+}
+#frequently-head{
+    display: flex;
+    font-size: 40px;
+    font-weight: bold;
+}

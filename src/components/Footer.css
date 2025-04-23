@@ -1,0 +1,19 @@
+.footer-elements{
+    background-color: #25a8ef;
+    display: flex;
+    z-index: 100;
+    bottom: 0%;
+    justify-content: center;
+    flex-direction: column;
+    position:relative;
+    margin-bottom: 0%;    
+}
+#copyright-content{
+    font-size: auto;
+    justify-content: center;
+    display: flex;
+}
+#follow-content{
+    
+    text-align: center;
+}

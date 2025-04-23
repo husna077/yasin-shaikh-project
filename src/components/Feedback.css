@@ -1,0 +1,74 @@
+.feedback-class{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+.aboutus-class{
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+#aboutus-id{
+    font-size: 50px;
+    font-weight: bold;
+}
+.videos-class{
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 20px;
+    max-width: 1400px;
+    overflow: hidden;
+    
+}
+.youtube-class {
+    flex: 1 1 48%;
+    position: relative;
+    padding-bottom: 28.125%; /* 16:9 aspect ratio of 50% width */
+    height: 0;
+    
+  }
+  
+  .youtube-class iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border: 3px solid #000;
+    box-shadow: 5px 5px 10px rgb(124, 123, 123);
+    
+  }
+.aboutusreview-class{
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    align-items: center;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+.content-review{
+    display: flex;
+    flex-direction: column;
+    
+}
+.review-class{
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px ;
+    box-shadow: 0 5px 10px rgb(190, 189, 189);
+    width: 50%;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+#review-name{
+    margin-left: 30px;
+}
+#review-location{
+    margin-left: 40px;
+}

@@ -1,0 +1,93 @@
+.benefits-elements{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    height: auto;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+.benefits-head{
+    height: auto;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+}
+#heading{
+    color: rgb(0, 0, 0);
+    size: 70px;
+    height: 70px;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 0%;
+}
+#sub-heading{
+    color: #25a8ef;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold ;
+    margin-top: 20px;
+    padding-top: 0%;
+    margin-top: 0%;
+}
+.benefits-column1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-items: center;
+    height: auto;
+    width: auto;
+
+
+}
+.image-personality-development{
+    display: flex;
+    flex-direction: row;
+    box-shadow: 0 5px 5px rgb(173, 172, 172);
+    margin: 20px;
+    padding: 10px;
+    border-radius: 6px;
+    height: auto;
+    width: 500px;
+}
+#person-image{
+    height: 100px;
+    width: 100px;
+    image-resolution: 4px 4px;
+    
+}
+#communication-image{
+    height: 100px;
+    width: 100px;
+    image-resolution: 4px 4px;
+}
+#leader-image{
+    height: 100px;
+    width: 100px;
+    image-resolution: 4px 4px;
+}
+.element-image-communication{
+    display: flex;
+    flex-direction: row;
+    box-shadow: 0 5px 5px rgb(173, 172, 172);
+    box-sizing: content-box;
+    margin: 20px;
+    padding: 10px;
+    width: 500px;
+    border-radius: 6px;
+
+}
+.element-image-leadership{
+    display: flex;
+    flex-direction: row;
+    box-shadow: 0 5px 5px rgb(150, 149, 149);
+    border-radius: 8px;
+    margin: 20px;
+    padding: 10px;
+    width: 500px;
+}
+#image-heading{
+    font-size: 25px;
+}

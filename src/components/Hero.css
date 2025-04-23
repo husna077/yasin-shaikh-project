@@ -1,0 +1,232 @@
+.elements{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.hero-elements{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+
+}
+.image-name-review{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: -44px;
+}
+.image-wrapper{
+    display: flex;
+    width: 50%;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    justify-content: left;
+    padding: left 0px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    flex-direction: column;
+}
+#host-image{
+    width:400px;
+    margin-top: 7%;
+    margin-left: 40px;
+    border-radius: 50px;
+}
+#host{
+    width: 100%;
+    height: auto;
+    max-width: 250px;
+    border-radius: 8px ;
+    
+}
+.host-name{
+    color: #25a8ef;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin-left: 30px;
+}
+#name{
+    color: black;
+    display: flex;
+    font-size: 30px;
+    justify-content: center;
+    text-align: center;
+    margin-top: 15px;
+
+}
+#designation{
+    margin-top:-15px ;
+    margin-left: -20px;
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 20px;
+    justify-content: center;
+}
+.certified-elements{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    width: 450px;
+    justify-items: center;
+    justify-content: center;
+    margin-right: 100px;
+    height: auto;
+   
+}
+.certified-content{
+    display: flex;
+    background-color: white;
+    flex-direction: row;
+    border-radius: 20px;
+    height: 80px;
+    box-shadow: 0 5px 10px rgb(190, 189, 189);
+    height: auto;
+    
+    
+}
+#text-certified{
+    font-size: 20px;
+    
+}
+#months-span{
+    color: #25a8ef;
+    font-weight: bold  ;
+}
+#clock-img{
+    display: flex;
+    height: 80px;
+    width: 80px;
+    margin-left: 20px;
+    
+}
+.content-review{
+    background-color: white;
+    display: flex;
+    margin-top: 60px;
+    height: auto;
+    flex-direction: column;
+}
+#text-review{
+    display: flex;
+    margin: 5px;
+    padding: 5px;
+    top: 5px;
+    text-align: justify;
+}
+.review-class1{
+    display: flex;
+    flex-direction: row;
+    box-shadow: 0 5px 10px rgb(190, 189, 189);
+    border-radius: 20px;
+    margin-top: 60px;
+}
+.acc-image{
+    width: 150px;
+    height: 150px;
+    display: flex;
+    margin-top:20px ;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+}
+#review-name{
+    display: flex;
+    justify-content: right;
+    margin-right: 45px;
+    margin-bottom: 5px;
+    font-weight: bold;
+    
+}
+#review-name-des{
+    font-weight: lighter;
+    margin-left: 5px;
+}
+#review-location{
+    display: flex;
+    justify-content: right;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+.hero{
+    display: flex;
+    align-items: center;
+    
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 10px;
+    
+
+    
+}
+#element{
+    font-weight: bold 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.3rem;
+    font-weight: 800;
+    box-sizing: border-box;
+    text-align: center;
+    color: #25a8ef;
+    flex-direction: row;
+
+}
+.register-class{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+    justify-content: center;
+    margin-top: 20px;
+}
+.button-register{
+    color: rgb(251, 251, 251);
+    background-color: #25a8ef;
+    text-align: center;
+    display: flex;
+    height: 60px;
+    width: 500px;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+
+}
+.original-price-off-div{
+    display: flex;
+    flex-direction: row;
+    height: auto;
+}
+#original-price{
+    text-decoration:line-through ;
+    margin-top: 20px;
+    font-size: 30px;
+}
+#off-span{
+    margin-top: 17px;
+    margin-left: 4px;
+    color:#25a8ef ;
+    font-size: 30px;
+    font-weight: bold;
+}
+#seats{
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 0%;
+    height: auto;
+}
+#timing-live-session{
+    font-size: 30px;
+    margin-top:0%;
+    margin-bottom: 0%;
+    height: auto;
+
+}
+@media (width: 768px) {
+    #host{
+        max-height: 200px;
+    }
+}
