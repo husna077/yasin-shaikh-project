@@ -9,8 +9,8 @@ const Hero = () =>{
         <div className="elements">
         <div className="hero-elements">
             <div className="hero">
-            <span id='element'><h2>Trusted by 1361+ Professionals, achieve next-level growth in your career & life by mastering soft skills,
-            enhancing personality, and boosting earnings.</h2></span>
+            <h2 id='element'>Trusted by 1361+ Professionals, achieve next-level growth in your career & life by mastering soft skills,
+            enhancing personality, and boosting earnings.</h2>
             
         </div>
        <div className="image-name-review"> 
