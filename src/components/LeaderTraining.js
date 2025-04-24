@@ -14,18 +14,18 @@ const LeaderTraining = ()=>{
                     <img src={acc} id="tik-id"/>
                  </div>
                  <div className="contentleader-review">
-                   <p id="text-review">
+                   <p id="review-box-id">
                 Aspire to achieve higher position and promotion at the workplace
    
                      </p>
                      </div>
                 </div>
-                <div className="text-class">
+                <div className="altr-class">
                  <div className="acc-image">
                     <img src={acc} id="tik-id"/>
                  </div>
                  <div className="contentleader-review">
-                   <p id="text-review">
+                   <p id="review-box-id">
                    Wish to develop strong leadership skills to lead teams and projects
    
                      </p>
@@ -36,7 +36,7 @@ const LeaderTraining = ()=>{
                     <img src={acc} id="tik-id"/>
                  </div>
                  <div className="contentleader-review">
-                   <p id="text-review">
+                   <p id="review-box-id">
                    Want to stay bold and make decisions confidently without hesitation.
 
                    </p>
@@ -44,12 +44,12 @@ const LeaderTraining = ()=>{
                 </div>
                 </div>
                 <div className="leaderbody-class">
-            <div className="text-class">
+            <div className="altr-class">
                  <div className="acc-image">
                     <img src={acc} id="tik-id"/>
                  </div>
                  <div className="contentleader-review">
-                   <p id="text-review">
+                   <p id="review-box-id">
                    Desire to network with ease and build lasting relationships with people.
                      </p>
                       </div>
@@ -59,17 +59,17 @@ const LeaderTraining = ()=>{
                     <img src={acc} id="tik-id"/>
                  </div>
                  <div className="contentleader-review">
-                   <p id="text-review">
+                   <p id="review-box-id">
                    Want to feel confident and clear while presenting in meetings & presentations.
                      </p>
                      </div>
                 </div>
-                <div className="text-class">
+                <div className="altr-class">
                  <div className="acc-image">
                     <img src={acc} id="tik-id"/>
                  </div>
                  <div className="contentleader-review">
-                   <p id="text-review">
+                   <p id="review-box-id">
                    Help for confidence building and promote team activities to boost productivity.</p>
                       </div>
                 </div>
@@ -80,16 +80,16 @@ const LeaderTraining = ()=>{
                     <img src={acc} id="tik-id"/>
                  </div>
                  <div className="contentleader-review">
-                   <p id="text-review">
+                   <p id="review-box-id">
                    Improved Communication and Enhanced problem-solving skills.</p>
                    </div>
             </div>
-            <div className="text-class">
+            <div className="altr-class">
                 <div className="acc-image">
                     <img src={acc} id="tik-id"/>
                 </div>
                 <div className="contentleader-review">
-                   <p id="text-review">Aspire to succeed in professional and personal life with fulfilment & satisfaction.
+                   <p id="review-box-id">Aspire to succeed in professional and personal life with fulfilment & satisfaction.
                   </p>
                 </div>
             </div>
@@ -98,7 +98,7 @@ const LeaderTraining = ()=>{
                     <img src={acc} id="tik-id"/>
                 </div>
                 <div className="contentleader-review">
-                   <p id="text-review">
+                   <p id="review-box-id">
                    wide spectrum of techniques and psychotherapies aimed at controlling a person's level of psychological stress.</p></div>
             </div>
             </div>

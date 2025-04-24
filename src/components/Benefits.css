@@ -18,14 +18,14 @@
     color: rgb(0, 0, 0);
     size: 70px;
     height: 70px;
-    font-size: 50px;
+    font-size: 40px;
     text-align: center;
     font-weight: bold;
     padding-top: 0%;
 }
 #sub-heading{
     color: #25a8ef;
-    font-size: 50px;
+    font-size: 40px;
     text-align: center;
     font-weight: bold ;
     margin-top: 20px;
@@ -90,4 +90,5 @@
 }
 #image-heading{
     font-size: 25px;
+    font-weight: lighter;
 }

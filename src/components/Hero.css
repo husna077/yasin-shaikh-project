@@ -22,9 +22,8 @@
     height: auto;
     background-color: rgb(255, 255, 255);
     margin-top: 20px;
-    margin-left: 100px;
-    margin-right: 100px;
-    justify-content: left;
+    justify-content: center;
+    align-items: center;
     padding: left 0px;
     padding-top: 4px;
     padding-bottom: 4px;
@@ -47,6 +46,8 @@
     color: #25a8ef;
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
     width: 500px;
     margin-left: 30px;
 }
@@ -187,11 +188,11 @@
     background-color: #25a8ef;
     text-align: center;
     display: flex;
-    height: 60px;
-    width: 500px;
+    height: 50px;
+    width: 400px;
     align-items: center;
     justify-content: center;
-    font-size: 25px;
+    font-size: 20px;
 
 }
 .original-price-off-div{
@@ -202,13 +203,13 @@
 #original-price{
     text-decoration:line-through ;
     margin-top: 20px;
-    font-size: 30px;
+    font-size: 25px;
 }
 #off-span{
     margin-top: 17px;
     margin-left: 4px;
     color:#25a8ef ;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: bold;
 }
 #seats{
@@ -219,7 +220,7 @@
     height: auto;
 }
 #timing-live-session{
-    font-size: 30px;
+    font-size: 25px;
     margin-top:0%;
     margin-bottom: 0%;
     height: auto;

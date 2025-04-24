@@ -19,7 +19,7 @@
     text-align: center;
     margin-left: 30px;
     margin-right: 30px;
-    font-size: 20px;
+    font-size: 15px;
     margin-top: -50px;
 }
 #headingframe-id{
@@ -41,14 +41,14 @@
     width: 50%;
 }
 #focusarea-head{
-    font-size: 30px;
+    font-size: 20px;
     font-weight: bold;
 }
 #focus-text{
-    font-size: 20px;
+    font-size: 15px;
 }
 #focus-text-2{
-    font-size: 20px;
+    font-size: 15px;
 }
 .image-area{
     height: 33.33%;
@@ -58,9 +58,9 @@
     align-items: center;
 }
 .focus-div{
-    height: 120px;
+    height: 80px;
     width: 80%;
-    background-color: #99d1ef;
+    background-color: #d6e9f4;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -69,11 +69,11 @@
     margin-left: 200px;
     border-radius: 20px;
     border: 2px solid black;
-    box-shadow: 5px 10px black;
+    box-shadow:0 5px 10px black;
 
 }
 #h1-id{
-    font-size: 50px;
+    font-size: 40px;
     margin: 10px;
     font-family: monospace;
     font-weight: bold;
