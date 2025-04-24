@@ -16,18 +16,21 @@
 .navbar-text{
     align-items: center;
     margin-top: 20px;
+
 }
 #head{
     color: rgb(255, 255, 255);
     background-color: #25a8ef;
     display: flex;
-    flex-wrap: wrap;
-    font-size: 1.5rem;
     height:30px;
     margin-top: 0;
     padding: 10px;
-    width: 100%;
     text-align: center;
+    font-size: clamp(1.2rem, 4vw, 2rem); /* auto scales font size based on screen width */
+    font-weight: 600;
+    max-width: 90%;
+    word-wrap: break-word;
+    line-height: 1.3;
 }
 @media screen {
     .navbar{
